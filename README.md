@@ -1,6 +1,7 @@
 ## Actividad 1: API Solo Get
 
 **Ruta 1: /carrera/genero/promedio**
+
 Parámetros
 ```json
 carrera (string)
@@ -27,6 +28,7 @@ Respuesta:
 ```
 ---
 **Ruta 2: /matricula/edad/semestre**
+
 Parámetros:
 ```json
 matricula (int)
@@ -57,6 +59,7 @@ Respuesta:
 ---
 
 **Ruta 3: /matricula/edad/correo/genero**
+
 Parámetros
 ```json
 matricula (int)
